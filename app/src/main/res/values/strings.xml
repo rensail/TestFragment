@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestFragment</string>
+    <string name="this_is_minefragment">This is MineFragment</string>
+    <string name="this_is_homefragment">This is HomeFragment</string>
+</resources>
